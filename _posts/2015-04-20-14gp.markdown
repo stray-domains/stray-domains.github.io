@@ -1,0 +1,9 @@
+---
+title:  "14.gp"
+subtitle: "Short domains are cool"
+image: "http://api.screenshotlayer.com/api/capture?access_key=226ea2be1f838d57f8378f7749a508e1&url=http://14.gp&viewport=1440x900&width=1920"
+---
+
+### A site for sites
+
+We found a ".gp" as a TLD from Guadeloupe. After figuring our ways around [nic.gp](http://nic.gp), we finally figured it out and went ahead to get this super short, 4 character domain. The possibilities may not be endless, but this domain is pretty damn short!

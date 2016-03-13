@@ -1,0 +1,12 @@
+# Site settings
+title: Stray Domains
+description: >
+    We love great ideas, quirky domains and spending money on random crap.
+    Check out some of the cool stuff we have and let us know if you have some cool ideas.
+    It's like my mum always said, "Don't let your memes be dreams".
+    
+keywords: Fun, Quirky
+author: Pranay Prakash
+github: straydomains
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://stray.domains" # the base hostname & protocol for your site
