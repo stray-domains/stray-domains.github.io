@@ -1,5 +1,5 @@
 ---
-title:  "Project Christmast"
+title:  "Project Christmas"
 subtitle: "The Greatest Secret Santa Ever"
 image: "http://api.screenshotlayer.com/api/capture?access_key=226ea2be1f838d57f8378f7749a508e1&url=http://project.christmas&viewport=1440x900&width=1920"
 ---
